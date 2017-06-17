@@ -1,6 +1,8 @@
 # proxylist
 
 
+[![Build status](https://api.travis-ci.org/fate0/proxylist.svg?branch=build)](https://secure.travis-ci.org/fate0/proxylist)
+
 代理 ip 列表
 
 ``` json
